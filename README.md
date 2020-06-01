@@ -33,3 +33,4 @@ Arduino ile toprak kuruduğunda otomatik sulama ve hava karardığında otomatik
 
 # Kodlar
 
+[***Kodlar için tıkla***](https://github.com/technomonkey-7/garden-automation/blob/master/files/garden-automation.ino)
