@@ -7,7 +7,7 @@ Arduino ile toprak kuruduğunda otomatik sulama ve hava karardığında otomatik
  
 **2.** Toprak nem sensorü
 
-**3.** Röle modülü
+**3.** 5v röle modülü
 
 **4.** Neopixel 8'li şerit led
 
