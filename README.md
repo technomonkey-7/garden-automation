@@ -19,13 +19,11 @@ Arduino ile toprak kuruduğunda otomatik sulama ve hava karardığında otomatik
 
 **8.** 9/12v adaptör (arduino'yu beslemek için)
 
-**9.** 5v röle modülü
+**9.** 5v adaptör (dalgıç pompayı ve neopixel'i beslemek için)
 
-**10.** 5v adaptör (dalgıç pompayı ve neopixel'i beslemek için)
+**10.** Dc barrel jack
 
-**11.** Dc barrel jack
-
-**12.** Usb kablosu
+**11.** Usb kablosu
 
 # Bağlantılar
 
